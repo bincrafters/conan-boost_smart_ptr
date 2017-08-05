@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Smart_Ptr](https://github.com/Boostorg/Smart_Ptr) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Smart_Ptr%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Smart_Ptr%3Abincrafters).
 
 ## For Users: Use this package
 
