@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostSmart_PtrConan(ConanFile):
     name = "boost_smart_ptr"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-smart_ptr"
+    url = "https://github.com/bincrafters/conan-boost_smart_ptr"
  
     lib_short_names = ["smart_ptr"]
     is_header_only = True
