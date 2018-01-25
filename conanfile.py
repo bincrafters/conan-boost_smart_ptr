@@ -8,7 +8,8 @@ class BoostSmart_PtrConan(ConanFile):
     name = "boost_smart_ptr"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_smart_ptr"
- 
+     author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["smart_ptr"]
     is_header_only = True
 
