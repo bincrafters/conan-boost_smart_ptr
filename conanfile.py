@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.69.0@bincrafters/testing")
 
 class BoostSmart_PtrConan(base.BoostBaseConan):
     name = "boost_smart_ptr"
+    version = "1.69.0"
     url = "https://github.com/bincrafters/conan-boost_smart_ptr"
     lib_short_names = ["smart_ptr"]
     header_only_libs = ["smart_ptr"]
